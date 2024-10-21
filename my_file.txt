@@ -1,0 +1,6 @@
+This is the first line of text.
+The second line contains a number: 42.
+The third line includes a decimal number: 3.14.
+Appending a new line: Python is awesome!
+Another appended line: 100 is an integer.
+Final appended line: 2.718 is a constant.
